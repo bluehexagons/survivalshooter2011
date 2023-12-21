@@ -1,5 +1,7 @@
 Survival Shooter 2011 is a very rough TypeScript port of an old Java game I worked on in my free time for a while.
 
+Play at https://bluehexagons.github.io/survivalshooter2011/index.html
+
 This bundled version of the game is licensed under the GNU GPL 3.0.
 The original TypeScript source code is proprietary, but may be available on request.
 If I continue development of this project, I plan to properly open source it.
